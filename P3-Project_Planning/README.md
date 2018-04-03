@@ -7,7 +7,7 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
--[Wireframe Layout of Project] (https://github.com/lacgoal/liftoff-assignments/blob/master/P3-Project_Planning/CPWireframe.png)
+-[Wireframe Layout of Project](https://github.com/lacgoal/liftoff-assignments/blob/master/P3-Project_Planning/CPWireframe.png)
 
 ### Project Tracker
 
