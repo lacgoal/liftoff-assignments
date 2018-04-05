@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
 
 ### GitHub
-Provide a link to your GitHub account here.
+-[lacgoal Github Profile](https://github.com/lacgoal)
 
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+-[Libbie Corney LinkedIn Profile](https://www.linkedin.com/in/libbie-corney-7b8547130/)
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo.
+-[Libbie Corney Resume](https://github.com/lacgoal/liftoff-assignments/blob/master/C1-Online_Profiles/LC_Resume_2018.pdf)
