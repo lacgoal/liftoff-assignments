@@ -10,4 +10,4 @@ For this assignment, you'll create some initial plans for your project.
 -[Wireframe Layout of Project](https://github.com/lacgoal/liftoff-assignments/blob/master/P3-Project_Planning/CPWireframe.png)
 
 ### Project Tracker
--[Art Website with Tracker App](https://www.pivotaltracker.com/n/projects/2158943)
+-[Art Website with Tracker App](https://trello.com/b/EQBxlQTJ/liftoff-art-portfolio-and-tracker)
